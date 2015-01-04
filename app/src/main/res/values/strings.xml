@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Strain Finder</string>
+    <string name="hello_world">Let me find you some strain!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_btn_text">Search</string>
+
+</resources>
